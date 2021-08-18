@@ -1,0 +1,33 @@
+style.css
+ 
+ <div class="header">
+ <div class="menu">
+     <div >< a href="#"></a></div>
+     <div> Origami Designs</div>
+     <div><a href="about.html">About Us</a></div>
+     <div class="bodyimg">
+         img src=<main2 class="jpg">height="600px" width="100"
+             <p> Origami instructions and diagrams
+             </p>
+             <h3>><br> Step by step diagrams may be really hard to find.Luckily, we got your back</h3>
+             display:flex
+             .grid img{
+                 border: 2px solid black
+                 border: radius 50px;
+                 .origami{
+                     border: radius 20px;
+                     background-color:white;
+                     
+                 }
+             }
+     
+     </div>
+
+
+
+     <div class="grid">
+      <div class="Origami">
+      <center>
+      <a href="https://origami.me/camel/"
+    </div>
+    </div>
